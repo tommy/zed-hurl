@@ -1,0 +1,4 @@
+name = "Hurl"
+grammar = "hurl"
+path_suffixes = ["hurl"]
+line_comments = ["# "]

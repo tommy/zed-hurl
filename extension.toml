@@ -1,0 +1,11 @@
+id = "hurl"
+name = "Hurl"
+description = "Hurl file syntax highlighting"
+version = "0.1.0"
+schema_version = 1
+authors = ["Tommy R."]
+repository = "https://github.com/tommy/zed-hurl"
+
+[grammars.hurl]
+repository = "https://github.com/pfeiferj/tree-sitter-hurl.git"
+commit = "ff07a42d9ec95443b5c1b57ed793414bf7b79be5"
